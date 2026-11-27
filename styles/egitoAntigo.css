@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #E8C989;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: #3B250F;
+}
+
+h3{
+    color: #206E89;
+}
+
+h5{
+    color: #9E8554;
+}
+
+p{
+    text-align: left;
+    color: #3B250F;
+}
+
+img{
+    float: right;
+    width: 300px;
+}
