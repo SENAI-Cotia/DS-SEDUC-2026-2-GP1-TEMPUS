@@ -10,7 +10,7 @@ body{
 .conteudo{
     background-color: #640D14;
     margin: 0 auto;
-    margin-top: 10px;
+    margin-top: 20px;
 
     padding-top: 10px;
     padding-bottom: 20px;
@@ -19,7 +19,6 @@ body{
 
     border-radius: 10px;
     border: 3px solid #D8973C;
-
 }
 
 .google{
@@ -28,7 +27,8 @@ body{
 }
 
 .logo{
-    width: 500px;
+    /* tem que ser esse tamanho pra n ter que rolar a tela */
+    width: 440px;
     height: auto;
     margin-left: 270px;
     padding-bottom: 10px;
