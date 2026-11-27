@@ -4,7 +4,11 @@
 }
 
 body{
-    background: linear-gradient(to right, #a31e44, #640D14 )
+    background-image: url(../img/fundo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
 }
 
 .conteudo{
@@ -18,7 +22,7 @@ body{
     max-width: 1000px;
 
     border-radius: 10px;
-    border: 3px solid #D8973C;
+    border: 3px solid #f9ab3d;
 }
 
 .google{
@@ -86,7 +90,7 @@ h4 a:hover{
 
 .entrar{
     color: #640D14;
-    background-color: #D8973C;
+    background-color: #f9ab3d;
     border: none;
     margin-left: 300px;
     margin-right: 30px;
@@ -94,8 +98,8 @@ h4 a:hover{
 
 .cadastrar{
     background-color: #640D14;
-    border-color: #D8973C;
-    color: #D8973C;
+    border-color: #f9ab3d;
+    color: #f9ab3d;
 }
 
 .entrar-google{
@@ -118,7 +122,7 @@ h4 a:hover{
     margin-top: 50px;
     margin-left: 300px;
 
-    background-color: #D8973C;
+    background-color: #f9ab3d;
 }
 
 .entrar-final h1{
