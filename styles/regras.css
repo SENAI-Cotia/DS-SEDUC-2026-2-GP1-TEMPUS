@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  color: white;
+  height: 100vh;
+  background: linear-gradient(to bottom right, #6b0f22, #a63a3e, #c8683a);
+}
+
+.topo {
+  padding: 15px 100px;
+  text-align: right;
+}
+
+.menu a {
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 7px 12px;
+  border: 2px solid transparent;
+  border-radius: 20px;
+}
+
+.menu a:hover {
+  border: 2px solid white;
+}
+
+.card {
+  width: 900px;
+  margin: 50px auto 0 auto;
+  padding: 20px 30px 25px 30px;
+  text-align: center;
+  background-color: #6b0f22;
+  border: 1px solid #f7b93e;
+  border-radius: 20px;
+}
+
+.card h2 {
+  font-size: 40px;
+  font-weight: 800;
+  color: #f7b93e;
+}
+
+.card p {
+  margin-top: 10px;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.card ul {
+  margin-top: 15px;
+  padding-left: 20px;
+  text-align: left;
+}
+
+.card li {
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.aceite {
+  display: block;
+  margin: 20px 0 10px 0;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.botao-amarelo {
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: none;
+  padding: 12px 24px;
+  margin: 0 5px;
+  background-color: #f7b93e;
+  color: #6b0f22;
+  border: 2px solid #f7b93e;
+  border-radius: 6px;
+}
+
+.botao-voltar {
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: none;
+  padding: 12px 24px;
+  margin: 0 5px;
+  color: white;
+  border: 2px solid white;
+  border-radius: 6px;
+}
